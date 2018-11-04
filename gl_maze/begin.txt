@@ -1,0 +1,35 @@
+INTRODUCTION
+
+You are in a maze of twisty little passage, all alike. Whence you came,
+you do not know. Why you are imprisoned like this, you do not know,
+either.
+
+Your only hope to escape this wretched dungeon is to find the black
+sphere, an ancient artifact that...um...do something to help you. Or
+something like that. Don't look at me, I am only cleaning this maze. Why
+should I know about this stuff?
+
+Off you go, then. Good luck -- you might need it. And by the way, I was
+told that this fog might be bad for your health, so you should better
+hurry. What? You ask why I am not affected...well...um...got to go,
+sorry.
+
+CONTROLS
+
+* Use WSAD for movement in the maze.
+* Use the mouse to look around. Just don't expect to see much.
+* Use Q to quit. Coward. Finding the sphere will also quit the game.
+* Use SPACE to reset the camera.
+
+CAVEAT
+
+Due to this very message, the focus might not be given properly to the
+window. If this is the case, the controls will not work as expected.
+Usually, setting the focus to this window using ALT+TAB should work.
+
+NOTES
+
+* The maze is generated using a PRNG.
+* The maze can be solved.
+* The maze spans 7x7 cells, but allows larger configurations.
+* The exit is placed at random.
